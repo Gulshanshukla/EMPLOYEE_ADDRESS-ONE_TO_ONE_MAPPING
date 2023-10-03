@@ -1,4 +1,4 @@
-# <h1 align = Employee Address Application</h1>
+# <h1 align ="center">EMPLOYEE ADDRESS APPLICATION</h1>
 ***
 <p align ="center">
 <a href="Java url"> 
