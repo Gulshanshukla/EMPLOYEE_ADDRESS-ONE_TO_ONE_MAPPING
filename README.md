@@ -1,4 +1,19 @@
-# Employee Address Application
+# <h1 align = Employee Address Application</h1>
+***
+<p align ="center">
+<a href="Java url"> 
+  <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg"/>
+</a>
+<a href="Maven url"> 
+  <img alt="Maven" src="https://img.shields.io/badge/maven-4.0.0-brightgreen.svg"/>
+</a>
+<a href="Spring Boot url"> 
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.1.4-brightgreen.svg"/>
+</a>
+<a href="Spring Boot url"> 
+  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
+</a>
+
 
 This project is a simple Employee and Address management system implemented using Spring Boot and JPA (Java Persistence API). It allows you to perform CRUD (Create, Read, Update, Delete) operations on employees and their associated addresses.
 *** 
